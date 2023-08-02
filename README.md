@@ -38,6 +38,6 @@ pip install pyttsx3
 视频生成结束后,会输出在根目录下
 
 # 最后
-如果你认为这个项目还不错,可以考虑[赞助我](https:vme50.azhegod.top)或 给与这个仓库一个免费的STAR⭐ / ~~ 给我添加一个follower~~
-如果有问题的话,可以在我的[博客](http://blog.theazhegod.top)下留言,或提交**issue**/**pr**
+如果你认为这个项目还不错,可以考虑[赞助我]("https:vme50.azhegod.top")或 给与这个仓库一个免费的STAR⭐ / ~~ 给我添加一个follower~~
+如果有问题的话,可以在我的[博客]("http://blog.theazhegod.top")下留言,或提交**issue**/**pr**
 ❤爱来自啊这.
